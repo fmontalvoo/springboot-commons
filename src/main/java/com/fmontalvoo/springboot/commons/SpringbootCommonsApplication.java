@@ -1,4 +1,4 @@
-package com.fmontalvoo.springboot.app.commons;
+package com.fmontalvoo.springboot.commons;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

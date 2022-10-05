@@ -1,4 +1,4 @@
-package com.fmontalvoo.springboot.app.commons;
+package com.fmontalvoo.springboot.commons;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

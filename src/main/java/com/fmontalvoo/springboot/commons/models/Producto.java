@@ -1,4 +1,4 @@
-package com.fmontalvoo.springboot.app.commons.models;
+package com.fmontalvoo.springboot.commons.models;
 
 import java.io.Serializable;
 import java.util.Date;

@@ -9,7 +9,7 @@
 		<version>2.7.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fmontalvoo.springboot.app.commons</groupId>
+	<groupId>com.fmontalvoo.springboot.commons</groupId>
 	<artifactId>springboot-commons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-commons</name>
